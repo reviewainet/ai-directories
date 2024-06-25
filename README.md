@@ -61,6 +61,10 @@ Welcome to 'Top AI Directories', a curated compilation of AI tool directories de
 - [Productivity Tools](https://productivity.directory) - A curated productivity directory
 - [Pugin](https://pugin.ai/) - Discover AI Plugins
 
+## R
+
+- [ReviewAI](https://reviewai.net) - AI directory with reviews
+
 ## S
 
 - [Stratup.ai](https://stratup.ai/) - AI-Powered Startup Ideas and Tools to Fuel Your Entrepreneurial Journey
